@@ -1,0 +1,13 @@
+{
+    "words": {
+        "search": "Search",
+        "loading": "Loading",
+        "showAll": "Show Week",
+        "min": "Minimum",
+        "max": "Maximum",
+        "hum": "Humidity",
+        "date": "Date:",
+        "theme": "Change Theme",
+        "lang": "Change Language"
+    }
+}
